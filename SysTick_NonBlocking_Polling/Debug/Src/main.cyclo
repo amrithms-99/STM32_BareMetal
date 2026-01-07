@@ -1,0 +1,4 @@
+../Src/main.c:26:6:SysTick_Init	1
+../Src/main.c:37:6:SysTick_Update	2
+../Src/main.c:53:6:GPIO_Setup	1
+../Src/main.c:59:5:main	4
